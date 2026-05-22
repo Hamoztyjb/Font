@@ -1,0 +1,11 @@
+{
+  "spec": 1,
+  "family": "Montserrat",
+  "fonts": [
+    {
+      "weight": 700,
+      "style": "normal",
+      "url": "https://fonts.gstatic.com/s/montserrat/v30/JTUSjIg1_i6t8kCHKm459WdhyyTh89Y.woff2"
+    }
+  ]
+}
